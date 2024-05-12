@@ -236,6 +236,7 @@ https://templatemo.com/tm-521-get-ready
     transition: .4s;
     transform-origin: center;
     z-index: 9999;
+    position: fixed;
   }
 
   .menu-burger.fs {

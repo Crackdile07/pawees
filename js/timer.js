@@ -1,4 +1,4 @@
-var countdownDate = new Date("Nov 30, 2024 23:59:59").getTime();
+var countdownDate = new Date("Oct 22, 2024 23:59:59").getTime();
 
   // 更新倒计时的函数
   var countdownFunction = setInterval(function() {

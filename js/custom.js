@@ -23,6 +23,7 @@
         ],
         timer: false,
         transition: [ 'zoomOut', ]
+        
     });
 
 })(jQuery);
